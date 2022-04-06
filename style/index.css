@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(237, 250, 166);
+    text-align: center;
+}
+
+.shows{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;;
+    width: 700px;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.linux{
+    background-color: white;
+    border-style: ridge;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border: none;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.disk{
+    background-color: white;
+    border-style: ridge;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    border: none;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.open{
+    background-color: white;
+    border-style: ridge;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border: none;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.scales{
+    background-color: white;
+    border-style: ridge;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.backup{
+    background-color: white;
+    border-style: ridge;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.auto{
+    background-color: white;
+    border-style: ridge;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.2);
+}
+a{
+    color: orange;
+    text-decoration: none;
+}
